@@ -8,4 +8,4 @@
 * Chrome
 
 ## My result!
-https://moong0122.github.io/JavaScript2/
+https://moong0122.github.io/paintboard-web/
